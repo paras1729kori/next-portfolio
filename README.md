@@ -2,7 +2,7 @@
 
 This repository contains a Next.js portfolio template that you can use to create your own portfolio website. The template is built with Next.js, React, TypeScript, and Tailwind CSS, providing a solid foundation for a modern and responsive portfolio.
 
-![Next.js Portfolio Template](https://github.com/paras1729kori/next-portfolio/blob/main/public/screenshot.png?raw=true)
+[Next.js Portfolio Template](https://github.com/paras1729kori/next-portfolio/blob/main/public/screenshot.png?raw=true)
 
 **Features:**
 
@@ -57,7 +57,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 **Design Creds:**
 
-The project's design credits goes to ![developedbyed](https://www.youtube.com/watch?v=k-Pi5ZMxHWY).
+The project's design credits goes to [developedbyed](https://www.youtube.com/watch?v=k-Pi5ZMxHWY).
 
 ---
 
