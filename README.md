@@ -11,7 +11,6 @@ This repository contains a Next.js portfolio template that you can use to create
 - Project showcase: Showcase your projects with details such as project name, description, technologies used, and live demo or GitHub links.
 - Skills section: Highlight your technical skills and expertise in a dedicated section.
 - About section: Introduce yourself and provide a brief overview of your background, education, and work experience.
-- Contact form: Include a contact form to enable visitors to reach out to you easily.
 
 **Getting Started:**
 
